@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Kant</h1>
-<h3 align="center">FRONT END DEVELOPER | UI/UX DESIGNING</h3>
+<h3 align="center">FRONT END DEVELOPER | UI/UX DESIGNER</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KrishnaKant15](https://github.com/KrishnaKant15)
 
