@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krishnakant15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krishnakant15" height="30" width="40" /></a>
-<a href="https://www.behance.net/hkrishnakant2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="hkrishnakant2" height="30" width="40" /></a>
+<a href="https://www.behance.net/krishnakant2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="hkrishnakant2" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/krishnakant_ck_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="krishnakant_ck_1" height="30" width="40" /></a>
 </p>
 
